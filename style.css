@@ -808,20 +808,20 @@
     font-size: 20px;
 }
 
-.footer_wizet_right h3 {
+.footer_wizet_right h3 a {
     color: rgb(228, 228, 228);
     font-size: 22px;
     margin-left: 46px;
     position: relative;
 }
 
-.footer_wizet_right h3::before {
+.footer_wizet_right h3 a::before {
     content: "";
     position: absolute;
-    top: 0;
+    top: -4px;
     left: -14px;
-    width: 1%;
-    height: 100%;
+    width: 3px;
+    height: 122%;
     background: #3763eb;
 }
 
