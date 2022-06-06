@@ -628,12 +628,7 @@
         margin-top: 100px;
     }
     
-   .mass {
-    margin-left: -3%;
-}
-
-
-/* End Subscribe Section */
+  
 
 
 /* Start Client Section */
@@ -680,14 +675,14 @@
 }
 
 .client1 img {
-    padding: 20px 33px;
+    padding: 20px 33px !important;
     border: 1px solid #ddd;
     opacity: .6;
     transition: all .4s ease-in-out;
 }
 
 .client0 img {
-    padding: 25px 33px;
+    padding: 25px 33px !important;
     border: 1px solid #ddd;
     opacity: .6;
     transition: all .4s ease-in-out;
@@ -779,7 +774,7 @@
 }
 
 .containerr {
-    width: 1116px;
+    width: 1116px !important;
 }
 
 
