@@ -632,3 +632,220 @@
         margin-left: -3%;
     }
     /* End Subscribe Section */
+
+
+/* Start Client Section */
+
+.client-section {
+    margin-top: 100px;
+}
+
+.client-title h6 {
+    color: #6780ed;
+    /* margin-top: 60px; */
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.client-title h2 {
+    font-size: 40px;
+    margin-bottom: 40px;
+    width: 106%;
+    position: relative;
+}
+
+.client-title h2::after {
+    content: "";
+    background: #2c5bea;
+    width: 14%;
+    height: 2px;
+    position: absolute;
+    left: 0%;
+    bottom: -8%;
+}
+
+.client-title p {
+    color: rgb(137, 146, 154);
+    font-size: 20px;
+    width: 112%;
+    margin: auto;
+    margin-bottom: 60px;
+}
+
+.client-logo img:hover {
+    opacity: 1;
+    background: #f6f9fc;
+}
+
+.client1 img {
+    padding: 20px 33px;
+    border: 1px solid #ddd;
+    opacity: .6;
+    transition: all .4s ease-in-out;
+}
+
+.client0 img {
+    padding: 25px 33px;
+    border: 1px solid #ddd;
+    opacity: .6;
+    transition: all .4s ease-in-out;
+}
+
+
+/* End Client Section */
+
+
+/* Start News Part */
+
+.news-section {
+    margin-top: 100px;
+}
+
+.news-title h6 {
+    color: #6780ed;
+    /* margin-top: 60px; */
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.news-title h2 {
+    font-size: 42px;
+    margin-bottom: 29px;
+    /* width: 106%; */
+    position: relative;
+    font-weight: 700;
+}
+
+.news-title h2::after {
+    content: "";
+    background: #2c5bea;
+    width: 4%;
+    height: 2px;
+    position: absolute;
+    left: 48%;
+    bottom: -19%;
+}
+
+.news-title p {
+    color: rgb(137, 146, 154);
+    font-size: 20px;
+    width: 35%;
+    margin: auto;
+    margin-bottom: 80px;
+}
+
+
+/* End News Part */
+
+
+/* Start Card Section */
+
+.c_body h5 {
+    font-size: 21px;
+    font-weight: 600;
+}
+
+.c_img {
+    position: relative;
+}
+
+.c_img_figurer {
+    position: absolute;
+    bottom: 13px;
+    left: 147px;
+}
+
+.c_img_button span img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin: 0px 10px 0-19px;
+}
+
+.c_img_button {
+    font-size: 13px;
+    border-radius: 34px;
+    padding: 3px 23px;
+}
+
+.c_text {
+    font-size: 16px;
+}
+
+.card_section {
+    margin-bottom: 80px;
+}
+
+.containerr {
+    width: 1116px;
+}
+
+
+/* End Card Section */
+
+
+/* Start Footer Section  */
+
+.footer_section {
+    background: #081828;
+    height: 510px;
+}
+
+.footer_wizet p {
+    color: white;
+    padding: 20px 0 !important;
+}
+
+.wizet_logo img {
+    width: 140px;
+}
+
+.social_logo ul {
+    list-style: none;
+    margin-left: -40px;
+}
+
+.social_logo ul li a i {
+    color: #fff;
+    padding: 0 16px;
+    font-size: 20px;
+}
+
+.footer_wizet_right h3 {
+    color: rgb(228, 228, 228);
+    font-size: 22px;
+    margin-left: 46px;
+    position: relative;
+}
+
+.footer_wizet_right h3::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -14px;
+    width: 1%;
+    height: 100%;
+    background: #3763eb;
+}
+
+.footer_wizet_right ul {
+    list-style: none;
+}
+
+.footer_wizet_right ul li a {
+    color: #c0bdbd;
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 36px;
+    display: block;
+}
+
+.footer_bootom p {
+    border-top: 1px solid rgb(139, 138, 138);
+    padding-top: 32px;
+    color: #dfdfdf;
+    font-size: 15px;
+}
+
+
+/* End Footer Section  */
